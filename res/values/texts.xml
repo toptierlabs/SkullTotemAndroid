@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="texts_array">
+        <item>I am open</item>
+        <item>I am ready</item>
+        <item>I receive</item>
+        <item>I believe</item>
+        <item>I know</item>
+        <item>I trust in myself</item>
+        <item>I have</item>
+        <item>I create</item>
+        <item>I love</item>
+ 		<item>I am beautiful</item>
+        <item>I am strong</item>
+    </string-array>
+</resources>
+
+
+
+
+
+
+
+
+
+

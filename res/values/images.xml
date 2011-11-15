@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="images_array">
+        <item>image1</item>
+        <item>image2</item>
+        <item>image3</item>
+        <item>image4</item>
+        <item>image5</item>
+        <item>image6</item>
+        <item>image7</item>
+        <item>image8</item>
+        <item>image9</item>
+ 		<item>image10</item>
+        <item>image11</item>
+    </string-array>
+</resources>
